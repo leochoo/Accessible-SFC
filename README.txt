@@ -1,7 +1,6 @@
-[Accesible SFC v1.0]
+[Accesible SFC v2.0]
 
-Members: Sangbuem Leonard Choo, Nikko Mizutani, Eunah Jo, Yukio Nozawa
-
+Developer: Sangbuem Leonard Choo
 
 Folders included:
 
@@ -21,3 +20,4 @@ Folders included:
 	
 	This can be executed in Eclipse and it will log the results in the console. 
 
+3. iOS - App specially made for the use of Nozawa kun.
